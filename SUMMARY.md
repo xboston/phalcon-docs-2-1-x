@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [Welcome!](index.md)
 * [Installation](install.rst)
    * [Apache Installation Notes](install/apache.rst)
@@ -13,7 +12,7 @@
    * [Access Control Lists (ACL)](reference/acl.rst)
    * [Annotations Parser](reference/annotations.rst)
    * [MVC Applications](reference/applications.rst)
-   * [Assets Management](reference/assetsmd.md)
+   * [Assets Management](reference/assets.md)
    * [Improving Performance with Cache](reference/cache.rst)
    * [Command Line Applications](reference/cli.rst)
    * [Reading Configurations](reference/config.rst)
@@ -35,9 +34,9 @@
    * [Micro Applications](reference/micro.rst)
    * [Database Migrations](reference/migrations.rst)
    * [Working with Models](reference/models.rst)
-       * [Caching in the ORM](reference/models-cache.rst)
-       * [Models Meta-Data](reference/models-metadata.rst)
-       * [Model Transactions](reference/model-transactions.rst)
+      * [Caching in the ORM](reference/models-cache.rst)
+      * [Models Meta-Data](reference/models-metadata.rst)
+      * [Model Transactions](reference/model-transactions.rst)
    * [The MVC Architecture](reference/mvc.rst)
    * [Working with Namespaces](reference/namespaces.rst)
    * [ODM (Object-Document Mapper)](reference/odm.rst)
@@ -69,4 +68,3 @@
    * [Vokuro](tutorial/tutorial-vokuro.rst)
 * [List of examples](samples.md)
 * [Increasing Performance: What's next?](whats-next.rst)
-
