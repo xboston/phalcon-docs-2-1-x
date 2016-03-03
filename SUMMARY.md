@@ -12,7 +12,7 @@
    * [Access Control Lists (ACL)](reference/acl.rst)
    * [Annotations Parser](reference/annotations.rst)
    * [MVC Applications](reference/applications.rst)
-   * [Assets Management](reference/assets.rst)
+   * [Assets Management](reference/assets.md)
    * [Improving Performance with Cache](reference/cache.rst)
    * [Command Line Applications](reference/cli.rst)
    * [Reading Configurations](reference/config.rst)
