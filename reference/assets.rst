@@ -57,7 +57,7 @@ Then in a view, these resources can be printed:
 
 Volt syntax:
 
-.. code-block:: html+jinja
+```html+jinja
 
     <html>
         <head>
@@ -71,6 +71,7 @@ Volt syntax:
             {{ assets.outputJs() }}
         </body>
     <html>
+```
 
 For better pageload performance, it is recommended to place JavaScript at the end of the HTML instead of in the :code:`<head>`.
 
